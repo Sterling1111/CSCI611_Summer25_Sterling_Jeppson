@@ -1,9 +1,2 @@
-Assignment_2/data/cifar-10-python.tar.gz
 Assignment_2/model_trained.pt
-Assignment_2/data/cifar-10-batches-py/batches.meta
-Assignment_2/data/cifar-10-batches-py/data_batch_1
-Assignment_2/data/cifar-10-batches-py/data_batch_2
-Assignment_2/data/cifar-10-batches-py/data_batch_3
-Assignment_2/data/cifar-10-batches-py/data_batch_4
-Assignment_2/data/cifar-10-batches-py/data_batch_5
-Assignment_2/data/cifar-10-batches-py/test_batch
+Assignment_2/data/
